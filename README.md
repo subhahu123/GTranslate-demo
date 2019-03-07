@@ -20,4 +20,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2019 subhahu123 <jainsubhahu.gmail.com> (GTranslate-demo.surge.sh)
+[ISC](LICENSE) © 2019 subhahu123 <jainsubhahu.gmail.com>(GTranslate-demo.surge.sh)
